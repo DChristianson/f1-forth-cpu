@@ -1,24 +1,21 @@
 # f1-forth-cpu
 
-Experiments building a ForthCore CPU
+The goal of this project is to realize a ForthCore CPU and use it to construct a simple computer
+ 
+# progression
 
-# All the ideas
-Start with learning the FPGA 
-* LED blinkenlights
-* tone generator
-* LFSR counter
+* TTY
+* Audio
+* USB
 * Video
- * HDMI Video?
 
-Then put together the CPU
-* Forth CPU
-* Other instruction sets (Lisp, SQL...?)
+Sample app ideas
 
-Some projects
-* Calculator
-* Calculator with Spreadsheet functionality
-* Calculator with Stream processing functionality
-* Simple Game
+* RPN Calculator
+* Music player
+* Spreadsheet
+* Awk
+* Video Game
 
 # References
 * https://github.com/howerj/forth-cpu
